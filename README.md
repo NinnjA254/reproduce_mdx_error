@@ -1,4 +1,4 @@
-# Reproducing my mdx-bundler error
+# Reproducing my mdx-bundler error from https://github.com/kentcdodds/mdx-bundler/issues/242
 - mdx is bundled in ./app/page.tsx
 - getMdxComponent is called in ./app/DisplayMdx.tsx
 
@@ -18,5 +18,6 @@ update: In next js 15.3.3, the build would succeeed, but navigating to the page
 rendering the mdx would result in a 500 internal server error, with the same error as above in
 the terminal.
 This is next js 15.5.3
+
 
 
