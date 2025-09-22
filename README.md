@@ -6,7 +6,7 @@
 1. clone the repo
 2. npm install
 3. npm run dev to see behavior in dev server
-4. npm build to see build error
+4. npm run build to see build error
 
 ## In dev mode
 https://github.com/user-attachments/assets/b38ed083-3101-47ed-9d33-c40f39b1d546
@@ -18,4 +18,5 @@ update: In next js 15.3.3, the build would succeeed, but navigating to the page
 rendering the mdx would result in a 500 internal server error, with the same error as above in
 the terminal.
 This is next js 15.5.3
+
 
