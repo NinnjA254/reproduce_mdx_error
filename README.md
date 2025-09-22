@@ -3,9 +3,7 @@
 - getMdxComponent is called in ./app/DisplayMdx.tsx
 
 ## In dev mode
-<video src="./dev_server_error.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/b38ed083-3101-47ed-9d33-c40f39b1d546
 
 ## Attempting to build
 ![build errror](./build_error.jpg)
